@@ -26,7 +26,7 @@ function timerFunc() {
     });
 }
 
-var timer = setTimeout(timerFunc, 500);
+var timer = setTimeout(timerFunc, 50);
 
 
 
