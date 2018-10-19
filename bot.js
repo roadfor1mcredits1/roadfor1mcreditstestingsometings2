@@ -39,7 +39,7 @@ client.on('ready', () => {
     client.channels.get("502940526149107723").join();
     }); 
 
-
+ 
 
 // THIS  MUST  BE  THIS  WAY
 client.login(process.env.BOT_TOKEN);
